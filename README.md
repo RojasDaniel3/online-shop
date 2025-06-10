@@ -16,3 +16,8 @@ Open the index.html in your browser.
 -Responsive design
 -Use of Flexbox and Grid
 -Custom typography and colors
+
+Name: Daniel Fernando Rojas Echeverria
+Clan: Cienaga
+Correo:dani-rojas0206@hotmail.com
+Cc: 1002210129
